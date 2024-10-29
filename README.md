@@ -24,5 +24,5 @@ The analysis covers various dimensions of the coffee shop's sales data:
 - **Sales by Category and Type**: Insight into customer preferences by analyzing product categories and types, allowing for more targeted inventory and marketing decisions.
 
 ## Tools Used
-- **Tableau
-- **Excel
+- Tableau
+- Excel
