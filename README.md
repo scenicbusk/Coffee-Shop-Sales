@@ -22,3 +22,7 @@ The analysis covers various dimensions of the coffee shop's sales data:
 - **Average Order Value**: Calculation of the average order amount to understand customer spending behavior.
 - **Top-Selling Products**: Analysis of which products generate the most revenue and are most frequently purchased.
 - **Sales by Category and Type**: Insight into customer preferences by analyzing product categories and types, allowing for more targeted inventory and marketing decisions.
+
+## Tools Used
+- **Tableau
+- **Excel
